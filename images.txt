@@ -14,3 +14,6 @@ docker.io/calico/kube-controllers:v3.25.1
 
 # redis
 docker.io/bitnami/redis:7.2.3-debian-11-r0
+
+# mysql
+mysql:8.0.32-debian-11-r0
