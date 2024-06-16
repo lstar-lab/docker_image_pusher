@@ -1,4 +1,4 @@
-nginx
+nginx:1.16.1
 
 # calico
 docker.io/calico/kube-controllers:v3.25.1
