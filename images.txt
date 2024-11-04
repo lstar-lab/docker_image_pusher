@@ -15,6 +15,7 @@ docker.io/bitnami/mysql:8.0.32-debian-11-r0
 # nacos
 nacos/nacos-peer-finder-plugin:1.1
 nacos/nacos-server:v2.2.3
+nacos/nacos-server:v2.3.2
 
 #jre
 eclipse-temurin:8-jre
