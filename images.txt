@@ -23,4 +23,6 @@
 # 达梦Nacos
 # alpine:latest
 # centos:7.9.2009
-minio/minio:RELEASE.2024-10-02T17-50-41Z
+# minio/minio:RELEASE.2024-10-02T17-50-41Z
+
+openjdk:17-ea-slim
