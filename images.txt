@@ -26,4 +26,5 @@
 # minio/minio:RELEASE.2024-10-02T17-50-41Z
 
 # openjdk:17-ea-slim
-nginx:1.27.2-alpine
+# nginx:1.27.2-alpine
+openjdk:17-jdk-slim
