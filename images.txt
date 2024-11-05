@@ -19,3 +19,6 @@ nacos/nacos-server:v2.3.2
 
 #jre
 eclipse-temurin:8-jre
+
+# 达梦Nacos
+alpine:latest
