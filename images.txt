@@ -25,4 +25,5 @@
 # centos:7.9.2009
 # minio/minio:RELEASE.2024-10-02T17-50-41Z
 
-openjdk:17-ea-slim
+# openjdk:17-ea-slim
+nginx:1.27.2-alpine
