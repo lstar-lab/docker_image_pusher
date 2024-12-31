@@ -32,3 +32,4 @@
 # openjdk:8-jdk-alpine
 # adoptopenjdk:8-jdk-hotspot
 nacos/nacos-server:v2.4.2
+arm64v8/redis:7.2.6
