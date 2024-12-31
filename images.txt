@@ -30,4 +30,5 @@
 # openjdk:17-jdk-slim
 # powerjob/powerjob-server:4.3.6
 # openjdk:8-jdk-alpine
-adoptopenjdk:8-jdk-hotspot
+# adoptopenjdk:8-jdk-hotspot
+nacos/nacos-server:v2.4.2
