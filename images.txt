@@ -33,4 +33,5 @@
 # adoptopenjdk:8-jdk-hotspot
 # nacos/nacos-server:v2.4.2
 # --platform=linux/arm64 mysql:8.4.3
---platform=linux/arm64 arm64v8/redis:7.2
+# --platform=linux/arm64 arm64v8/redis:7.2
+--platform=linux/arm64 alpine:latest
