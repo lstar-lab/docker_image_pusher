@@ -36,9 +36,9 @@
 # --platform=linux/arm64 arm64v8/redis:7.2
 # --platform=linux/arm64 alpine:latest
 # --platform=linux/arm64 adoptopenjdk:8-jdk-hotspot
---platform=linux/arm64 kibana:7.9.1
+# --platform=linux/arm64 kibana:7.9.1
 
-
+arm64v8/ubuntu:20.04
 
 
 
