@@ -4,7 +4,7 @@
 # docker.io/calico/kube-controllers:v3.25.1
 # docker.io/calico/typha:v3.25.1
 # docker.io/calico/kube-controllers:v3.25.1
-
+kibana:8.6.0
 
 # redis
 # docker.io/bitnami/redis:7.2.3-debian-11-r0
