@@ -4,7 +4,7 @@
 # docker.io/calico/kube-controllers:v3.25.1
 # docker.io/calico/typha:v3.25.1
 # docker.io/calico/kube-controllers:v3.25.1
-kibana:8.6.0
+# kibana:8.6.0
 
 # redis
 # docker.io/bitnami/redis:7.2.3-debian-11-r0
@@ -35,4 +35,17 @@ kibana:8.6.0
 # --platform=linux/arm64 mysql:8.4.3
 # --platform=linux/arm64 arm64v8/redis:7.2
 # --platform=linux/arm64 alpine:latest
---platform=linux/arm64 adoptopenjdk:8-jdk-hotspot
+# --platform=linux/arm64 adoptopenjdk:8-jdk-hotspot
+--platform=linux/arm64 kibana:8.16.5
+
+
+
+
+
+
+
+
+
+
+
+
