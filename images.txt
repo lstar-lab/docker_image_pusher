@@ -38,8 +38,8 @@
 # --platform=linux/arm64 adoptopenjdk:8-jdk-hotspot
 # --platform=linux/arm64 kibana:7.9.1
 
---platform=linux/arm64 ubuntu:20.04
-
+# --platform=linux/arm64 ubuntu:20.04
+blacktop/kibana:7.9.1
 
 
 
