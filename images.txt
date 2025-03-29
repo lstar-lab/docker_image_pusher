@@ -1,6 +1,6 @@
 blacktop/kibana:7.9.1
 
-
+ollama/ollama:0.6.3
 
 
 
