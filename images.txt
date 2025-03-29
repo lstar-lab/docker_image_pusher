@@ -1,4 +1,4 @@
-blacktop/kibana:7.9.1
+--platform=linux/arm64 blacktop/kibana:7.9.1
 
 
 
