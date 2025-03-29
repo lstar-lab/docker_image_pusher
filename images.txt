@@ -1,3 +1,15 @@
+blacktop/kibana:7.9.1
+
+
+
+
+
+
+
+
+
+
+
 # nginx:1.16.1
 
 # calico
@@ -39,7 +51,7 @@
 # --platform=linux/arm64 kibana:7.9.1
 
 # --platform=linux/arm64 ubuntu:20.04
-blacktop/kibana:7.9.1
+
 
 
 
