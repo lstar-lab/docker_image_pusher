@@ -36,6 +36,7 @@
 # openjdk:17-ea-slim
 # nginx:1.27.2-alpine
 # openjdk:17-jdk-slim
+powerjob/powerjob-server:5.1.0
 # powerjob/powerjob-server:4.3.6
 # openjdk:8-jdk-alpine
 # adoptopenjdk:8-jdk-hotspot
@@ -46,7 +47,7 @@
 # --platform=linux/arm64 alpine:latest
 # --platform=linux/arm64 adoptopenjdk:8-jdk-hotspot
 # --platform=linux/arm64 kibana:7.9.1
---platform=linux/arm64 powerjob/powerjob-server:4.3.7
+# --platform=linux/arm64 powerjob/powerjob-server:4.3.7
 
 # --platform=linux/arm64 ubuntu:20.04
 
