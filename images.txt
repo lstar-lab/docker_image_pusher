@@ -37,7 +37,7 @@
 # nginx:1.27.2-alpine
 # openjdk:17-jdk-slim
 # powerjob/powerjob-server:5.1.1
-seataio/seata-server:2.0.0
+# seataio/seata-server:2.0.0
 # powerjob/powerjob-server:4.3.6
 # openjdk:8-jdk-alpine
 # adoptopenjdk:8-jdk-hotspot
@@ -49,6 +49,14 @@ seataio/seata-server:2.0.0
 # --platform=linux/arm64 adoptopenjdk:8-jdk-hotspot
 # --platform=linux/arm64 kibana:7.9.1
 # --platform=linux/arm64 powerjob/powerjob-server:4.3.7
+
+
+--platform=linux/arm64 nacos/nacos-server:v2.2.3
+--platform=linux/arm64 minio/minio:RELEASE.2022-01-28T02-28-16Z
+--platform=linux/arm64 onlyoffice/documentserver:7.1
+--platform=linux/arm64 keking/kkfileview:4.1.0
+--platform=linux/arm64 redis:7.2.3-alpine
+
 
 # --platform=linux/arm64 ubuntu:20.04
 
