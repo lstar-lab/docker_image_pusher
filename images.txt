@@ -36,7 +36,7 @@
 # openjdk:17-ea-slim
 # nginx:1.27.2-alpine
 # openjdk:17-jdk-slim
-powerjob/powerjob-server:5.1.0
+powerjob/powerjob-server:5.1.1
 # powerjob/powerjob-server:4.3.6
 # openjdk:8-jdk-alpine
 # adoptopenjdk:8-jdk-hotspot
