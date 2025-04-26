@@ -51,11 +51,11 @@
 # --platform=linux/arm64 powerjob/powerjob-server:4.3.7
 
 
---platform=linux/arm64 nacos/nacos-server:v2.2.3
---platform=linux/arm64 minio/minio:RELEASE.2022-01-28T02-28-16Z
---platform=linux/arm64 onlyoffice/documentserver:7.1
---platform=linux/arm64 keking/kkfileview:4.1.0
---platform=linux/arm64 redis:7.2.3-alpine
+
+
+--platform=linux/arm64 onlyoffice/documentserver:7.2
+--platform=linux/arm64 pi4k8s/kkfileview:4.4.0
+
 
 
 # --platform=linux/arm64 ubuntu:20.04
