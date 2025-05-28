@@ -42,7 +42,7 @@
 # openjdk:8-jdk-alpine
 # adoptopenjdk:8-jdk-hotspot
 # nacos/nacos-server:v2.4.2
-onlyoffice/documentserver:7.1
+--platform=linux/amd64 onlyoffice/documentserver:7.2
 
 
 
