@@ -42,6 +42,10 @@
 # openjdk:8-jdk-alpine
 # adoptopenjdk:8-jdk-hotspot
 # nacos/nacos-server:v2.4.2
+onlyoffice/documentserver:7.1
+
+
+
 # --platform=linux/arm64 nacos/nacos-server:v2.4.2
 # --platform=linux/arm64 mysql:8.0.35
 # --platform=linux/arm64 arm64v8/redis:7.2
@@ -57,7 +61,7 @@
 # --platform=linux/arm64 redis:7.2.6
 # --platform=linux/arm64 onlyoffice/documentserver:7.2
 # --platform=linux/arm64 fangzhengjin/kkfileview:4.4.0
---platform=linux/arm64 elasticsearch:7.17.8
+# --platform=linux/arm64 elasticsearch:7.17.8
 # --platform=linux/arm64 minio/minio:RELEASE.2024-12-18T13-15-44Z
 
 
