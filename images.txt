@@ -43,7 +43,7 @@
 # adoptopenjdk:8-jdk-hotspot
 # nacos/nacos-server:v2.4.2
 # --platform=linux/amd64 onlyoffice/documentserver:7.2
---platform=linux/amd64 onlyoffice/documentserver:7.2
+--platform=linux/amd64 keking/kkfileview:4.1.0
 
 
 
