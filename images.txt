@@ -44,8 +44,8 @@
 # nacos/nacos-server:v2.4.2
 # --platform=linux/amd64 onlyoffice/documentserver:7.2
 # --platform=linux/amd64 keking/kkfileview:4.1.0
---platform=linux/amd64 vulhub/kkfileview:4.3.0
-
+# --platform=linux/amd64 vulhub/kkfileview:4.3.0
+--platform=linux/amd64 pi4k8s/kkfileview:4.4.0
 
 # --platform=linux/arm64 nacos/nacos-server:v2.4.2
 # --platform=linux/arm64 mysql:8.0.35
