@@ -55,8 +55,8 @@
 # --platform=linux/arm64 adoptopenjdk:8-jdk-hotspot
 # --platform=linux/arm64 kibana:7.9.1
 # --platform=linux/arm64 keking/kkfileview:4.1.0
---platform=linux/arm64 bitnami/prometheus:3.4.1
-
+# --platform=linux/arm64 bitnami/prometheus:3.4.1
+--platform=linux/arm64 prom/prometheus:v3.4.2
 
 
 
