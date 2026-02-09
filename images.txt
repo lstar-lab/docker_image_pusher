@@ -66,10 +66,12 @@
 # fangzhengjin/kkfileview:4.4.0
 # nacos/nacos-server:v2.4.3
 # mysql:8.0.35
-onlyoffice/documentserver:7.2
+# onlyoffice/documentserver:7.2
 # elasticsearch:7.17.8
 # kibana:7.17.8
 # minio/minio:RELEASE.2022-01-28T02-28-16Z
+apache/skywalking-ui:9.5.0
+apache/skywalking-oap-server:9.5.0
 
 # --platform=linux/arm64 redis:7.2.6
 # --platform=linux/arm64 onlyoffice/documentserver:7.2
