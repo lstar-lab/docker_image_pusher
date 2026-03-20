@@ -24,7 +24,7 @@
 # nacos/nacos-peer-finder-plugin:1.1
 # nacos/nacos-server:v2.2.3
 # nacos/nacos-server:v2.3.2
-nacos/nacos-server:v2.5.1
+# nacos/nacos-server:v2.5.1
 
 #jre
 # eclipse-temurin:8-jre
